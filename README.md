@@ -14,8 +14,8 @@
  - Alcatel G-010S-P
  - Hilink HL23446
  - CarlitoxxPro CPGOS03-0490
- - Dasan H650SFP,
- - DpOptics D
+ - Dasan H650SFP
+ - DpOptics D23446
 
 ---
 
